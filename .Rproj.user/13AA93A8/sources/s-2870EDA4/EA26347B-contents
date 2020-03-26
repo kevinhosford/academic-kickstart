@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Joint ECPAT & Interpol"
   company_url = ""
   location = "Interpol Headquarters. Leon, France"
-  date_start = "2017-12-01"
-  date_end = ""
+  date_start = "2017-09-01"
+  date_end = "2017-11-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
