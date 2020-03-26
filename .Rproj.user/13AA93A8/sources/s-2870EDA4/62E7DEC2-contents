@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kevin Hosford
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Researcher of Cyberterrorism and Cybercrime
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Sociology and Criminology, University College Cork
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Online Hacker Cultures, Digital Deviancy, and Cybercrime.
 
 interests:
 - Artificial Intelligence
