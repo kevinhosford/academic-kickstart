@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BA (Hon) Criminology
+    institution: University College Cork
+    year: 2017
+  - course: Fetac Lv5 Journalism for the Digital Age 
+    institution: Coláiste Stiofáin Naofa 
+    year: 2014
+  - course: Fetac Lv6 Advanced Film and Television Production
+    institution: Saint Johns Central College
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
