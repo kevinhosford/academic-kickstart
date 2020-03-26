@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Researcher of Cyberterrorism and Cybercrime
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Sociology and Criminology, University College Cork
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Online Hacker Cultures, Digital Deviancy, and Cybercrime.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Cybercrime
-- Online Cultures
+- Artificial Intelligence
 - Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
