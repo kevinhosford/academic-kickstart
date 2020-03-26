@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kevin Hosford
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Researcher
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
