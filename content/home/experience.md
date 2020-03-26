@@ -18,12 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Assistant Researcher"
+  title = "Assistant Researcher (Funded)"
   company = "Joint ECPAT & Interpol"
   company_url = ""
   location = "Interpol Headquarters. Leon, France"
   date_start = "2017-09-01"
   date_end = "2017-11-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Assisted in the development of a Global Indicator on Unidentified Victims in Child Sexual Exploitation Material. Contributions included:
+  * Conducting a series of Qualitative Focus-Group Interviews with Active Practitioners from Interpol Member States
+  * Transcription and Analysis of Qualitative Data
+  * Analytical Analysis
+  * Preperation of Findings
+  
+  """
 
 +++
