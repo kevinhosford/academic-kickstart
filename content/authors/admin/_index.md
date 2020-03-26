@@ -69,4 +69,4 @@ user_groups:
 
 Kevin Hosford is a Post Graduate researcher at the Department of Sociology & Criminology, University College Cork. His research interests include Information Security, Cyber Behaviour & Culture, and Cybercrime. His doctorial research focuses on the development and investigation of conceptual understandings of Cyberterrorism.
 
-
+His professional contributions include (but not limited to); Assitant Researcher for Joint ECPAT & Interpol technical report 'Towards a Global Indicator on Unidentified Victims in Child Sexual Exploitation Material', Administrative Support for Inside-Out Prison Exchange Program, and Technical Support for UCC Criminology's Conversation With podcast. 
