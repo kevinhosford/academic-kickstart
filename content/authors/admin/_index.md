@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Online Hacker Cultures, Digital Deviancy, and Cybercrime.
+bio: My research interests include Online Hacker Cultures, Organised Crime, Terrorism Studies, and Cybercrime.
 
 interests:
 - Information Security
@@ -30,8 +30,8 @@ education:
   - course: BA (Hon) Criminology
     institution: University College Cork
     year: 2017
-  - course: Fetac Lv5 Journalism for the Digital Age 
-    institution: Coláiste Stiofáin Naofa 
+  - course: Fetac Lv5 Journalism for the Digital Age
+    institution: Coláiste Stiofáin Naofa
     year: 2014
   - course: Fetac Lv6 Advanced Film and Television Production
     institution: Saint Johns Central College
@@ -69,4 +69,4 @@ user_groups:
 
 Kevin Hosford is a Post Graduate researcher at the Department of Sociology & Criminology, University College Cork. His research interests include Information Security, Cyber Behaviour & Culture, and Cybercrime. His doctorial research focuses on the development and investigation of conceptual understandings of Cyberterrorism.
 
-His professional contributions include (but not limited to); Assitant Researcher for Joint ECPAT & Interpol technical report 'Towards a Global Indicator on Unidentified Victims in Child Sexual Exploitation Material', Administrative Support for Inside-Out Prison Exchange Program, and Technical Support for UCC Criminology's Conversation With podcast. 
+His professional contributions include (but not limited to); Assistant Researcher for Joint ECPAT & Interpol technical report 'Towards a Global Indicator on Unidentified Victims in Child Sexual Exploitation Material', Administrative Support for Inside-Out Prison Exchange Program, and Technical Support for UCC Criminology's Conversation With Criminologists podcast.
